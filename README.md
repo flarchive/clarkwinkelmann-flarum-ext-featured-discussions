@@ -2,13 +2,13 @@
 
 > **Read-only archive of released versions of clarkwinkelmann/flarum-ext-featured-discussions.** Not for installation: use [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-featured-discussions) or the [upstream repository](https://github.com/clarkwinkelmann/flarum-ext-featured-discussions).
 
-**0** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-featured-discussions/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
+**1** versions archived · Latest: [`1.0.0`](https://github.com/flarchive/clarkwinkelmann-flarum-ext-featured-discussions/tree/archive/v1.0.0) · License: `MIT` · Flarum: `^1.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `1.0.0` | 2021-09-22 | `^1.0` | [Browse](https://github.com/flarchive/clarkwinkelmann-flarum-ext-featured-discussions/tree/archive/v1.0.0) |
 
 Catalog entry: [packages/clarkwinkelmann-flarum-ext-featured-discussions.json](https://github.com/flarchive/archive-index/blob/main/packages/clarkwinkelmann-flarum-ext-featured-discussions.json)
 
